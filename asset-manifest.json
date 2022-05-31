@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AmalBenKilani/react-bootstrap-checkpoint.git/static/css/main.e68ad578.css",
-    "main.js": "/AmalBenKilani/react-bootstrap-checkpoint.git/static/js/main.da6a9bad.js",
-    "static/js/787.a521b789.chunk.js": "/AmalBenKilani/react-bootstrap-checkpoint.git/static/js/787.a521b789.chunk.js",
-    "static/media/logo.svg": "/AmalBenKilani/react-bootstrap-checkpoint.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/AmalBenKilani/react-bootstrap-checkpoint.git/index.html",
-    "main.e68ad578.css.map": "/AmalBenKilani/react-bootstrap-checkpoint.git/static/css/main.e68ad578.css.map",
-    "main.da6a9bad.js.map": "/AmalBenKilani/react-bootstrap-checkpoint.git/static/js/main.da6a9bad.js.map",
-    "787.a521b789.chunk.js.map": "/AmalBenKilani/react-bootstrap-checkpoint.git/static/js/787.a521b789.chunk.js.map"
+    "main.css": "/react-bootstrap-checkpoint/static/css/main.e68ad578.css",
+    "main.js": "/react-bootstrap-checkpoint/static/js/main.8c91b88f.js",
+    "static/js/787.a521b789.chunk.js": "/react-bootstrap-checkpoint/static/js/787.a521b789.chunk.js",
+    "static/media/logo.svg": "/react-bootstrap-checkpoint/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-bootstrap-checkpoint/index.html",
+    "main.e68ad578.css.map": "/react-bootstrap-checkpoint/static/css/main.e68ad578.css.map",
+    "main.8c91b88f.js.map": "/react-bootstrap-checkpoint/static/js/main.8c91b88f.js.map",
+    "787.a521b789.chunk.js.map": "/react-bootstrap-checkpoint/static/js/787.a521b789.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e68ad578.css",
-    "static/js/main.da6a9bad.js"
+    "static/js/main.8c91b88f.js"
   ]
 }
